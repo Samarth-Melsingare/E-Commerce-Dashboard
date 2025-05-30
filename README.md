@@ -20,5 +20,7 @@
 - New York City leads in profit.
 - Standard Class is the most used shipping mode.
 
-## Author
-- Samarth Melsingare (samarthmelsingare@gmail.com/LinkedIn/(https://github.com/Samarth-Melsingare/E-Commerce-Dashboard))
+## 👤 Author
+**[Samarth Melsingare]**  
+Aspiring Data Analyst | Power BI • Excel • SQL  
+[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Samarth-Melsingare/E-Commerce-Dashboard)
