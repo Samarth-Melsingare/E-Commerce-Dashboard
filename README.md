@@ -21,4 +21,4 @@
 - Standard Class is the most used shipping mode.
 
 ## Author
-- Samarth Melsingare (samarthmelsingare@gmail.com/LinkedIn/(github.com/Samarth-Melsingare/E-Commerce-Dashboard))
+- Samarth Melsingare (samarthmelsingare@gmail.com/LinkedIn/(https://github.com/Samarth-Melsingare/E-Commerce-Dashboard))
