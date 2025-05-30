@@ -22,5 +22,5 @@
 
 ## 👤 Author
 **[Samarth Melsingare]**  
-Aspiring Data Analyst | Power BI • Excel • SQL  
+Aspiring Data Analyst | Excel • Power BI • SQL • Basic Python
 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Samarth-Melsingare/E-Commerce-Dashboard)
