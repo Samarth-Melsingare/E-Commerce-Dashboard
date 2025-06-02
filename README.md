@@ -23,4 +23,4 @@
 ## 👤 Author
 **[Samarth Melsingare]**  
 Aspiring Data Analyst | Excel • Power BI • SQL • Basic Python
-[LinkedIn](https://www.linkedin.com/in/samarth-melsingare/) | [G-Mail](samarthmelsingare@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/samarth-melsingare/) | [Website](https://www.vitaely.me/profile)
