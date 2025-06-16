@@ -19,6 +19,7 @@
 - Technology is the most profitable category.
 - New York City leads in profit.
 - Standard Class is the most used shipping mode.
+- Shipping mode change can increase profit.
 
 ## 👤 Author
 **[Samarth Melsingare]**  
